@@ -143,14 +143,13 @@ img {
 		}
 	}
 }
-
 .intro {
 	background: url('../img/BG.jpg') center no-repeat;
 	height: 100vh;
 	width: 100%;
 	z-index: -1;
 	@media (max-width: 1024px) {
-		height: 130vh;
+		height: 125vh;
 	}
 	@media (min-width: 1920px) {
 		background-size: cover;
