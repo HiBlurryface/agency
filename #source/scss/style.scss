@@ -561,12 +561,12 @@ img {
 					&-next {
 						margin-left: 20px;
 						&:after {
-							background: url('../../img/right.png') center no-repeat, #00dadc;
+							background: url('../img/right.png') center no-repeat, #00dadc;
 						}
 						&.swiper-button-disabled {
 							opacity: 1;
 							&:after {
-								background: url('../../img/next-black.png') center no-repeat, #fff;
+								background: url('../img/next-black.png') center no-repeat, #fff;
 								border: 2px solid #6a697f;
 								padding: 25px;
 							}
@@ -575,12 +575,12 @@ img {
 					&-prev {
 						margin-right: 20px;
 						&:after {
-							background: url('../../img/prev.png') center no-repeat, #00dadc;
+							background: url('../img/prev.png') center no-repeat, #00dadc;
 						}
 						&.swiper-button-disabled {
 							opacity: 1;
 							&:after {
-								background: url('../../img/prev-black.png') center no-repeat, #fff;
+								background: url('../img/prev-black.png') center no-repeat, #fff;
 								border: 2px solid #6a697f;
 								padding: 25px;
 							}
@@ -709,7 +709,7 @@ img {
 }
 // Foooter 
 .footer {
-	background: url('../../img/footer-bg.png') center no-repeat, #fcfcff;
+	background: url('../img/footer-bg.png') center no-repeat, #fcfcff;
 	background-position: 100% 0%;
 	background-size: cover;
 	&__logo {
